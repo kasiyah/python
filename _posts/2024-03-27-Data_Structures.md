@@ -7,4 +7,6 @@ tags: [dataStructures, ds]
 
 # Data Structures
 
-BLAAAAAAAAAAAAAAAAAAAA
+
+Bla Bla BLAAAAA
+FAAAAAAAAAAAAAAAAAAAAA
